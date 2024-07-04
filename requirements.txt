@@ -1,1 +1,2 @@
-pygame
+-i https://pypi.org/simple
+pygame==2.6.0; python_version >= '3.6'
